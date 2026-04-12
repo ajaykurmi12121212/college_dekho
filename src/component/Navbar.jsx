@@ -87,7 +87,7 @@ function Navbar({ navLinks, wishlist }) {
 
                       {[
                         { name: "IIT Madras", desc: "Top Ranked IIT", path: "/iit-madras" },
-                        { name: "IIT Delhi", desc: "Best in Delhi" },
+                        { name: "GL Bajaj", desc: "Best in Delhi" ,path: "/gl-bajaj"},
                         { name: "NIT Trichy", desc: "Top NIT" }
                       ].map((item, i) => (
                         <div
