@@ -5,6 +5,8 @@ const ENGINEERING_COLLEGES = [
   { name: "IIT Madras", desc: "Top Ranked IIT", path: "/iit-madras" },
   // Ye change karo
 { name: "GL Bajaj", desc: "Best in Delhi", path: "/college/gl-bajaj" },
+{ name: "Bennett University", desc: "Times Group University", path: "/college/bennett-university" },
+{ name: "Galgotias University", desc: "Top Private Univ, UP", path: "/college/galgotias-university" },
  
   { name: "NIT Trichy", desc: "Top NIT", path: null },
 ];
