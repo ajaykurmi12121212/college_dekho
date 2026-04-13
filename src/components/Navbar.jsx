@@ -3,7 +3,9 @@ import { useNavigate } from "react-router-dom";
 
 const ENGINEERING_COLLEGES = [
   { name: "IIT Madras", desc: "Top Ranked IIT", path: "/iit-madras" },
-  { name: "GL Bajaj", desc: "Best in Delhi", path: "/gl-bajaj" },
+  // Ye change karo
+{ name: "GL Bajaj", desc: "Best in Delhi", path: "/college/gl-bajaj" },
+ 
   { name: "NIT Trichy", desc: "Top NIT", path: null },
 ];
 

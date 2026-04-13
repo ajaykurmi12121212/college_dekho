@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import CollegePage from "../component/college/CollegePage";
+import CollegePage from "../components/college/CollegePage";
 import colleges from "../data/colleges/index";
 
 export default function CollegeDetailPage() {
