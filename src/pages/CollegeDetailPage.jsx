@@ -4,7 +4,7 @@ import colleges from "../data/colleges/index";
 
 export default function CollegeDetailPage() {
   const { id } = useParams();
-  const data = colleges[id];
+   const data = colleges[id];  
 
   if (!data) {
     return (
